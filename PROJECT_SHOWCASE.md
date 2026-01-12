@@ -47,7 +47,7 @@
 <img width="1376" height="768" alt="Screenshot 2026-01-10 144542" src="https://github.com/user-attachments/assets/03cbc2f3-128d-49b9-b23e-d4f9eaa443c3" />
 
 ### 3. Executive Summary
-- [One-Page Business Brief](business_brief.md) *(create this next)*
+- [One-Page Business Brief](business_brief.md)
 
 ## 🛠 Skills Demonstrated
 | Technical Skills | Business Skills | Soft Skills |
