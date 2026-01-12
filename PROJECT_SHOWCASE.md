@@ -36,12 +36,15 @@
 
 ### 1. Technical Documentation
 - [View Dashboard Code](dax_measures.md)
-- [Explore Data Model](data/sample_dataset.csv)
+- [Explore Data Model](https://datadna.onyxdata.co.uk/challenges/august-2025-datadna-fitness-membership-analytics-challenge/)
 - [Review DAX Formulas](dax_measures.md)
 
 ### 2. Business Analysis
 - 📝 **[Full Article: Unlocking Member Value](https://medium.com/@horla1/unlocking-member-value-and-driving-growth-a-data-driven-analysis-of-mygyms-membership-retention-f9a734628f11)**
-- 📊 **Dashboard Screenshots:** [View Gallery](images/)
+- 📊 **Dashboard Screenshots:**
+<img width="1370" height="771" alt="Screenshot 2026-01-10 144451" src="https://github.com/user-attachments/assets/1d8e81c6-8901-4171-8678-46a7b4900e28" />
+<img width="1366" height="772" alt="Screenshot 2026-01-10 144514" src="https://github.com/user-attachments/assets/ff3e048c-4a65-40ba-87b2-0d22fd28b2cb" />
+<img width="1376" height="768" alt="Screenshot 2026-01-10 144542" src="https://github.com/user-attachments/assets/03cbc2f3-128d-49b9-b23e-d4f9eaa443c3" />
 
 ### 3. Executive Summary
 - [One-Page Business Brief](business_brief.md) *(create this next)*
