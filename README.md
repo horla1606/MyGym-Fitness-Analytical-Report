@@ -57,11 +57,8 @@ The numbers tell a powerful story: MyGym is more than a fitness center — i
 <img width="1376" height="768" alt="Screenshot 2026-01-10 144542" src="https://github.com/user-attachments/assets/d62273c6-074d-4591-bee1-da67cc5fe93f" />
 
 ## Project Links:
-[📁 Download Sample Dataset](https://datadna.onyxdata.co.uk/challenges/august-2025-datadna-fitness-membership-analytics-challenge/)
+[📁 Download Sample Dataset and Interact with Dasshboard](https://datadna.onyxdata.co.uk/challenges/august-2025-datadna-fitness-membership-analytics-challenge/)
 
-📊 View Interactive Dashboard Demo (Power BI Service link)
-
-🎥 Watch Dashboard Walkthrough (Video demonstration
 ## Tools & Technologies
 - Power BI (DAX, Power Query, Data Modeling)
 - SQL (Data extraction and transformation)
