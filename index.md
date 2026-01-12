@@ -50,4 +50,4 @@ I'm currently seeking data analyst roles where I can apply these skills to drive
 - Email: michealolamilekan101@gmail.com
 - LinkedIn: [linkedin.com/in/samson-micheal-olamilekan](https://www.linkedin.com/in/samson-micheal-olamilekan)
 - Medium: [@horla1](https://medium.com/@horla1)
-- GitHub: [Your GitHub Profile]
+- GitHub: [[GitHub Profile](https://horla1606.github.io/MyGym-Fitness-Analytical-Report/)]
