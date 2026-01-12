@@ -1,3 +1,29 @@
+# 🏋️‍♂️ MyGym Fitness Analytics Dashboard
+
+## 📖 Featured Analysis
+This project is featured in a comprehensive business analysis article:
+👉 **[Read the Full Analysis on Medium](https://medium.com/@horla1/unlocking-member-value-and-driving-growth-a-data-driven-analysis-of-mygyms-membership-retention-f9a734628f11)**
+
+*"Unlocking Member Value and Driving Growth: A Data-Driven Analysis of MyGym’s Membership Retention"*
+
+## 🎯 Executive Summary (From Article)
+**Key Findings:**
+1. **Revenue Insights:** Elite members (15% of base) generate 30% of revenue
+2. **Retention Risks:** 18% churn rate with distinct patterns by membership tier
+3. **Operational Efficiency:** 47% of gym capacity underutilized during off-peak hours
+4. **Growth Opportunities:** 36 identified members ready for premium upgrades
+
+**Strategic Recommendations Implemented:**
+- Tiered retention programs reducing churn by 12%
+- Dynamic pricing for off-peak hours increasing utilization by 25%
+- Targeted upgrade campaigns with 40% conversion rate
+
+## 🔬 Technical Implementation
+- Built 15+ DAX measures for dynamic calculations
+- Implemented star schema data model with 5 dimension tables
+- Created interactive drill-through from city level to individual member details
+
+
 # MyGym-Fitness-Analytical-Report
 
 ## 📌 Overview
@@ -48,16 +74,14 @@ The numbers tell a powerful story: MyGym is more than a fitness center — i
 *By acting on these insights, MyGym can strengthen its competitive position, optimize resources, and deliver personalized experiences that members value.*
 
 ## Technical Achievements
-- Built 15+ DAX measures for dynamic calculations
-- Implemented star schema data model with 5 dimension tables
-- Created interactive drill-through from city level to individual member details
+
 
 <img width="1370" height="771" alt="Screenshot 2026-01-10 144451" src="https://github.com/user-attachments/assets/e97df5d3-7e84-417b-83d9-512decbc5097" />
 <img width="1366" height="772" alt="Screenshot 2026-01-10 144514" src="https://github.com/user-attachments/assets/61e669e2-febe-49ae-807f-40456f9c36ab" />
 <img width="1376" height="768" alt="Screenshot 2026-01-10 144542" src="https://github.com/user-attachments/assets/d62273c6-074d-4591-bee1-da67cc5fe93f" />
 
 ## Project Links:
-[📁 Download Sample Dataset and Interact with Dasshboard](https://datadna.onyxdata.co.uk/challenges/august-2025-datadna-fitness-membership-analytics-challenge/)
+[📁 Download Sample Dataset](https://datadna.onyxdata.co.uk/challenges/august-2025-datadna-fitness-membership-analytics-challenge/)
 
 ## Tools & Technologies
 - Power BI (DAX, Power Query, Data Modeling)
