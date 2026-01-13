@@ -27,6 +27,14 @@ A comprehensive Power BI dashboard built to analyze member behavior, predict chu
 * **Tools:** Power BI, DAX, Power Query, SQL (for data extraction), Excel
 * **Data Sources:** Member check-in logs, billing transactions, membership tiers, satisfaction survey results
 
+## 📚 Additional Documentation
+
+For more detailed information about this project:
+
+- [Project Showcase](docs/PROJECT_SHOWCASE.md) - Complete project story and methodology
+- [Business Brief](docs/business_brief.md) - One-page executive summary
+- [View Dashboard Images](images/) - All dashboard screenshots
+
 ### Core DAX Measures & Calculations
 
 *(This shows your actual technical skills - very important!)*
