@@ -37,7 +37,6 @@ For more detailed information about this project:
 
 ### Core DAX Measures & Calculations
 
-*(This shows your actual technical skills - very important!)*
 
 ```dax
 // 1. Rolling 30-Day Churn Probability Score
