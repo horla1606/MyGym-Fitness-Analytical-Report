@@ -35,6 +35,14 @@ For more detailed information about this project:
 - [Business Brief](docs/business_brief.md) - One-page executive summary
 - [View Dashboard Images](images/) - All dashboard screenshots
 
+## 🚀 How to Explore This Project
+
+*   **📖 Read the Case Study:** The complete business analysis is detailed in my Medium article: [Unlocking Member Value and Driving Growth](https://medium.com/@horla1/...)
+*   **🖼️ View Dashboard Visuals:** High-resolution screenshots of all interactive Power BI reports are available in the [images/](images/) folder of this repository.
+*   **📊 Explore the Data:** The analysis dataset is available in the [data/](data/) folder. You can download it to understand the structure and explore the insights.
+*   **⚙️ Review the Methodology:** The DAX measures, data model, and technical implementation details are documented above in the [Technical Implementation](#-technical-implementation) section.
+
+  
 ### Core DAX Measures & Calculations
 
 
